@@ -1,0 +1,72 @@
+.home{
+    background-color: black;
+    height: 100vh;
+    position: relative;
+}
+
+nav{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 6%;
+    margin-top: 10px;
+    height: 80px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.homeHeadNav{
+    margin-left: 5%;
+}
+
+.homeSection{
+    display: flex;
+}
+
+.leftHomeSection{
+    flex:.5;
+}
+
+.homeHead1{
+    color:white !important;
+    font-size: 600%;
+    line-height: 1;
+    position: absolute;
+    z-index: 5;
+    top:20%;
+    left:17%;
+    font-family: 'Bebas Neue', cursive;
+    transition-delay: .8s;
+}
+
+.homeHead2{
+    color:#f74129;
+    font-size: 600%;
+    line-height: 1;
+    margin-top: 32%;
+    margin-left: 33%;
+    font-family: 'Bebas Neue', cursive;
+    transition-delay: 1.2s;
+}
+
+.homePara1{
+    color:white;
+    margin-left: 33%;
+    transition-delay: 1.6s;
+}
+
+.rightHomeSection{
+    flex:.5;
+}
+
+.homePara2{
+    color:white;
+}
+
+.homeImage{
+    width: 100%;
+    transition-delay: .4s;
+}
