@@ -28,23 +28,25 @@ const Home = () => {
                         data-aos="fade-right"
                         data-aos-anchor="#example-anchor"
                         data-aos-offset="500"
-                        data-aos-duration="1500" >Sales Perfomence</h1>
+                        data-aos-duration="1500" >Sales Perfomence.</h1>
                     <h1 className="homeHead2"
                         data-aos="fade-right"
                         data-aos-anchor="#example-anchor"
                         data-aos-offset="500"
-                        data-aos-duration="1500">Every Day</h1>
+                        data-aos-duration="1500">Every Day.</h1>
                     <p className="homePara1"
                        data-aos="fade-up"
                        data-aos-easing="linear"
-                       data-aos-duration="1500">Lorem Ipsum</p>
+                       data-aos-duration="1500">It is a long established fact that a reader will 
+                       be distracted by the readable content of a page when looking at its layout.It is a long established fact that a reader will 
+                            be distracted by the readable content of a page when looking at its layout.</p>
                 </div>
                 <div className="rightHomeSection"
                         data-aos="fade-left"
                         data-aos-anchor="#example-anchor"
                         data-aos-offset="500"
                         data-aos-duration="1500">
-                    <p className="homePara2">Lorem Ipsum</p>
+                    <p className="homePara2">It is a long established fact that a reader will</p>
                     <img className="homeImage" src={box1} alt="boxing"/>
                 </div>
             </div>

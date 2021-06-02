@@ -32,7 +32,7 @@ nav{
 
 .homeHead1{
     color:white !important;
-    font-size: 600%;
+    font-size: 650%;
     line-height: 1;
     position: absolute;
     z-index: 5;
@@ -44,7 +44,7 @@ nav{
 
 .homeHead2{
     color:#f74129;
-    font-size: 600%;
+    font-size: 650%;
     line-height: 1;
     margin-top: 32%;
     margin-left: 33%;
@@ -55,6 +55,7 @@ nav{
 .homePara1{
     color:white;
     margin-left: 33%;
+    margin-right: 3%;
     transition-delay: 1.6s;
 }
 
