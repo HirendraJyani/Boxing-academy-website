@@ -1,0 +1,41 @@
+.section2{
+    display: flex;
+    background-color: black;
+    color: white;
+    position: relative;
+    margin-top: 0px;
+}
+
+.section2Left{
+    flex:.3;
+    font-size: 300%;
+    line-height: .4;
+    
+}
+
+.text2{
+    transition-delay: .4s;
+}
+
+.text3{
+    transition-delay: .8s;
+}
+
+.text4{
+    transition-delay: 1.2s;
+}
+
+.section2LeftText{
+    position: absolute;
+    z-index: 5;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+
+.section2Right{
+    flex:.7;
+}
+
+.section2Image{
+    width:100%;
+}
